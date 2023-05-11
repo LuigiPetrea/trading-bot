@@ -1,0 +1,23 @@
+{
+  "name": "trading-bot",
+  "version": "1.0.0",
+  "description": "built in Nodejs using different packages (axios) with a well thought out trading strategy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuigiPetrea/trading-bot.git"
+  },
+  "author": "LuigiPetrea",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuigiPetrea/trading-bot/issues"
+  },
+  "homepage": "https://github.com/LuigiPetrea/trading-bot#readme",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "jsonwebtoken": "^9.0.0"
+  }
+}
