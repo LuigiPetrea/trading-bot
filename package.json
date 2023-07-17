@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/LuigiPetrea/trading-bot/issues"
   },
-  "homepage": "https://github.com/LuigiPetrea/trading-bot#readme"
+  "homepage": "https://github.com/LuigiPetrea/trading-bot#readme",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "jsonwebtoken": "^9.0.1"
+  }
 }
