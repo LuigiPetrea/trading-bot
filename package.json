@@ -1,0 +1,19 @@
+{
+  "name": "trading-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuigiPetrea/trading-bot.git"
+  },
+  "author": "LuigiPetrea",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuigiPetrea/trading-bot/issues"
+  },
+  "homepage": "https://github.com/LuigiPetrea/trading-bot#readme"
+}
